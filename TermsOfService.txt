@@ -1,1 +1,107 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+Terms of Service for "Elec"  
+Copyright © 2026 DuckSquadd. All rights reserved.
 
+Last Updated : 8/14/2026
+Developer : DuckSquadd
+Contact : ducksquadd.dev@gmail.com
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+1. Introduction
+
+By installing, accessing, or using Elec, you agree to the terms outlined in this document.
+If you do not agree to these terms, you may not use the game.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+2. Eligibility
+
+You must be at least 13 years old to use Elec.
+
+Accounts found to belong to users under 13 will be terminated and all associated data
+removed.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+3. Account Responsibilities
+
+You are responsible for keeping your account credentials secure. You agree not to
+share your account, impersonate others, or attempt to access accounts that do not
+belong to you.
+
+DuckSquadd is not responsible for losses caused by unauthorized access resulting from
+failure to secure your account.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+4. Acceptable Use
+
+While using Elec, you agree not to:
+	: Engage in harassment, threats, or abusive behavior
+	: Exploit bugs, cheats, or unauthorized modifications
+	: Attempt to disrupt servers or game functionality
+	: Upload or distribute harmful or illegal content
+	: Use Elec for any unlawful activity
+
+Violation of these rules may result in account restriction or termination.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+5. Intellectual Property
+
+All assets, code, and content in Elec are owned by DuckSquadd.
+
+You may not:
+	: Extract, copy, or redistribute assets
+	: Modify or reuse assets in other projects
+	: Use assets for commercial purposes
+	: Use assets for AI or machine‑learning training
+	: Claim ownership of any game content
+
+These restrictions are further detailed in the Elec License GL.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+6. Modding
+
+Unless explicitly stated otherwise, Elec does not permit modding, asset extraction, or
+unauthorized modifications. If modding support is added in the future, it will be governed
+by a separate license.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+7. Updates and Changes
+
+DuckSquadd may update, modify, or discontinue parts of Elec at any time.
+
+These Terms of Service may also be updated. The newest version will always be included
+with the latest game release or available on the official GitHub page.
+
+Continued use of the game after updates means you accept the revised terms.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+8. Disclaimer of Warranty
+
+Elec is provided "as is" without warranties of any kind.
+
+DuckSquadd does not guarantee uninterrupted gameplay, error‑free performance, or
+compatibility with all devices.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+9. Limitation of Liability
+
+DuckSquadd is not liable for:
+	: Loss of data
+	: Account compromise due to user negligence
+	: Damages resulting from gameplay, bugs, or server issues
+	: Unauthorized modifications or third‑party actions
+
+Your use of Elec is at your own risk.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+10. Termination
+
+DuckSquadd may suspend or terminate accounts that violate these Terms of Service or
+pose security risks.
+
+You may request account deletion at any time by contacting ducksquadd.dev@gmail.com.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+11. Contact
+
+If you have questions or concerns about these Terms of Service, please contact:
+ducksquadd.dev@gmail.com
